@@ -14,15 +14,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #F0A4D9;
+    background-color: #e9c9ae;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F0EAD6;
 }
 
 .resume-aside {
-	background-color: pink;
+	background-color: #cab9a7;
 }
 
 /* Styles for lists in the document */
@@ -50,4 +50,12 @@ body {
 	flex-basis: 1.4em;
 }
 
-.language-progress {background-color: #94438E !important}
+.language-progress {background-color: #bc9e82 !important}
+
+.brown-text {
+	color: #654F26
+}
+
+#myid {
+color: #654F26	
+}
